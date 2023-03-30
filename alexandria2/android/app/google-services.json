@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980882763124",
+    "project_id": "scholar-domain",
+    "storage_bucket": "scholar-domain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980882763124:android:78c2ae6bd201ec0f87d021",
+        "android_client_info": {
+          "package_name": "com.example.alexandria2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980882763124-38ho3040jb1gef9dtb77ou4ii6gavbi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexandria2",
+            "certificate_hash": "46380bd1f53fb707d657a1b1e1e39cd1942744cc"
+          }
+        },
+        {
+          "client_id": "980882763124-71ij0kc56l6elnoo2oisf25egepufvlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6e81yH4l4AaeoL0FOtC2m5eCWmRA5O4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980882763124-71ij0kc56l6elnoo2oisf25egepufvlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
